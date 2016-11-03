@@ -3,10 +3,14 @@
 	 font: 16px Helvetica, Sans-Serif;}
 	
 p {
-    border: 1px solid powderblue;
+    border: 5px solid powderblue;
     margin: 50px;
 	
 }
+
+ul {
+    border: 5px solid powderblue;
+    margin: 50px;
 
 
 }
