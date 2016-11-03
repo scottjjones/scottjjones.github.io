@@ -1,6 +1,10 @@
 
  body {
-	font: 16px Helvetica, Sans-Serif;
+	 font: 16px Helvetica, Sans-Serif;}
+	
+p {
+    border: 1px solid powderblue;
+    margin: 50px;
 	
 }
 
